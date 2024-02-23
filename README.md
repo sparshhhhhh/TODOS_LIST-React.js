@@ -2,9 +2,16 @@
 
 Hii, This is my first React App.
 
-This is TODO'S LIST, developed using React.js.
+This is a TODOS LIST, This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can Add or Delete your TODOS List.
+
+Sapmle images - 
+
+<img width="960" alt="image" src="https://github.com/sparshhhhhh/TODOS_LIST/assets/120734351/289e838e-3cbe-40e8-868e-90844f481c3a">
+
+<img width="959" alt="image" src="https://github.com/sparshhhhhh/TODOS_LIST/assets/120734351/d5e67ec4-ea6f-492e-b2f5-1d2de75caf22">
+
 
 ## Available Scripts
 

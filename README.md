@@ -2,6 +2,8 @@
 
 Hii, This is my first React App.
 
+This is TODO'S LIST, developed using React.js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
